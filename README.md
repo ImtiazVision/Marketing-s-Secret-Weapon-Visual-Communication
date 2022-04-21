@@ -30,5 +30,6 @@ Most individuals produce two sorts of visual communication on a daily basis: inf
 
 **Visual storytelling** is about delivering a complete narrative, which includes an opening statement or thesis, supporting text or supporting material that follows it, and a conclusion at the end of the tale. Using visual storytelling, the goal is to lead the audience to a final conclusion.
 
+In **visual storytelling**, infographics are popular because they have the advantage of beginning with a problem statement, then carrying us through all of the supporting material, and then as we delve deeper, we arrive to a final conclusion and, in many cases, a call to action. That is the approach we should use to visual storytelling. It's that beginning, middle, and conclusion, and it's only in the end that we should have a call to action for someone to do something.
 
 
