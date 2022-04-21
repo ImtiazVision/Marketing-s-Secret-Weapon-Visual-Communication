@@ -24,9 +24,11 @@ Today's viewers prefer visual material over more conventional types of informati
 
 ### Visual communication may be used to communicate critical info
 
-Most individuals produce two sorts of visual communication on a daily basis: information visualization and visual storytelling. The concept behind **information visualization** is straightforward: the data is shown but there is no narrative to make conclusions for the final audience.
+Most individuals produce two sorts of visual communication on a daily basis: information visualization and visual storytelling. 
 
-**Visual storytelling** is the process of visualizing very large data sets or extremely complicated thoughts or hypotheses such that the target audience may draw their own conclusions. Using arrows with a lot of intent, adding a key to make it simpler to take in that information, and using a visual metaphor can really assist someone take that content and run with it and then come to their own conclusions.
+**Information visualization** is the process of visualizing very large data sets or extremely complicated thoughts or hypotheses such that the target audience may draw their own conclusions. Using arrows with a lot of intent, adding a key to make it simpler to take in that information, and using a visual metaphor can really assist someone take that content and run with it and then come to their own conclusions.
+
+**Visual storytelling** is about delivering a complete narrative, which includes an opening statement or thesis, supporting text or supporting material that follows it, and a conclusion at the end of the tale. Using visual storytelling, the goal is to lead the audience to a final conclusion.
 
 
 
