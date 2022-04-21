@@ -6,7 +6,9 @@ Without words, visual communication tells our story. The absence of text should 
 
 ### Why visuals are important 
 
-Visuals may be a terrific method to understand someone's emotions, and the purest visual communication occurs when we have something that drives with emotion first and language second.
+Visuals may be a terrific method to understand someone's emotions, and the purest visual communication occurs when we have something that drives with emotion first and language second. 
+
+The average consumer's attention span nowadays is barely five seconds. Today, we have barely five seconds to captivate our viewers. Visual communication reaches the brain in 1/10 of a second, which is 60,000 times quicker than any other kind of communication.
 
 ### Data Visualization 
 
@@ -27,4 +29,4 @@ Most individuals produce two sorts of visual communication on a daily basis: inf
 **Visual storytelling** is the process of visualizing very large data sets or extremely complicated thoughts or hypotheses such that the target audience may draw their own conclusions. Using arrows with a lot of intent, adding a key to make it simpler to take in that information, and using a visual metaphor can really assist someone take that content and run with it and then come to their own conclusions.
 
 
-The average consumer's attention span nowadays is barely five seconds.
+
