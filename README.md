@@ -19,3 +19,6 @@ Quick inferences are made thanks to effective visual communication. By compariso
 ### Why visual communication is necessary for marketers
 
 Today's viewers prefer visual material over more conventional types of information by a margin of 91%. Audiences in the modern day want visual material. They want visual stuff as a result of our conditioning. They see it every day on Instagram and Facebook, as well as on their cell phones. We communicate with one another through images. We communicate with one another through images. Visual information is the medium through which we interact on a human level nowadays. 94 percent of our brand's or service's initial impressions will be dependent totally on the design of the visual material we send to our target audience. 
+
+
+Most individuals produce two sorts of visual communication on a daily basis: information visualization and visual storytelling. 
