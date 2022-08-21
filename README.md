@@ -12,7 +12,7 @@ The average consumer's attention span nowadays is barely five seconds. Today, we
 
 ### Data Visualization 
 
- Data visualizations have become increasingly popular in recent years. They aid people in making quick decisions and taking action on them. Today, we have access to so much information at our fingertips. People have begun to rely significantly on high-quality data visualizations to make sense of all this data. What works and what doesn't work with our marketing, whether our product or service will outperform the rest are all things we can learn through data visualizations.
+**Data visualizations** : have become increasingly popular in recent years. They aid people in making quick decisions and taking action on them. Today, we have access to so much information at our fingertips. People have begun to rely significantly on high-quality data visualizations to make sense of all this data. What works and what doesn't work with our marketing, whether our product or service will outperform the rest are all things we can learn through data visualizations.
  
 ### Visual communication may facilitate rapid decision-making 
 
@@ -28,7 +28,7 @@ Most individuals produce two sorts of visual communication on a daily basis: inf
 
 **Information visualization** is the process of visualizing very large data sets or extremely complicated thoughts or hypotheses such that the target audience may draw their own conclusions. Using arrows with a lot of intent, adding a key to make it simpler to take in that information, and using a visual metaphor can really assist someone take that content and run with it and then come to their own conclusions.
 
-**Visual storytelling** is about delivering a complete narrative, which includes an opening statement or thesis, supporting text or supporting material that follows it, and a conclusion at the end of the tale. Using visual storytelling, the goal is to lead the audience to a final conclusion.
+**Visual storytelling** : is about delivering a complete narrative, which includes an opening statement or thesis, supporting text or supporting material that follows it, and a conclusion at the end of the tale. Using visual storytelling, the goal is to lead the audience to a final conclusion.
 
 In **visual storytelling**, infographics are popular because they have the advantage of beginning with a problem statement, then carrying us through all of the supporting material, and then as we delve deeper, we arrive to a final conclusion and, in many cases, a call to action. That is the approach we should use to visual storytelling. It's that beginning, middle, and conclusion, and it's only in the end that we should have a call to action for someone to do something.
 
