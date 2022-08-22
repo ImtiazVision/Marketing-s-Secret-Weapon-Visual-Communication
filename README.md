@@ -18,7 +18,7 @@ The average consumer's attention span nowadays is barely five seconds. Today, we
 
 Quick inferences are made thanks to effective visual communication. By comparison, our brains process visual information 60,000 times faster than any other. Visuals are the finest approach to engage with our target audience in an age of information overload since our brains process them so quickly. 60,000 times faster equates to 1/10th of a second, if we think about it. It takes barely a tenth of a second for high-quality visual communication to reach the brain's limbic system. If we want to quickly draw conclusions from our visual communications, we should think about giving simply one statistic or one piece of information called visual hook that carry the story forward. 
 
-### Why visual communication is necessary for marketers
+### Why visual communication is necessary for marketers? :
 
 Today's viewers prefer visual material over more conventional types of information by a margin of 91%. Audiences in the modern day want visual material. They want visual stuff as a result of our conditioning. They see it every day on Instagram and Facebook, as well as on their cell phones. We communicate with one another through images. We communicate with one another through images. Visual information is the medium through which we interact on a human level nowadays. 94 percent of our brand's or service's initial impressions will be dependent totally on the design of the visual material we send to our target audience. 
 
